@@ -1,1 +1,1 @@
-import os
+#Division de deux valeur
